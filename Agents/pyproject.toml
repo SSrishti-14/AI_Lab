@@ -1,0 +1,18 @@
+[project]
+name = "07-01"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=1.0.5",
+    "duckduckgo-search>=7.2.1",
+    "exa-py>=1.8.7",
+    "google-generativeai>=0.8.3",
+    "groq>=0.15.0",
+    "lxml-html-clean>=0.4.1",
+    "newspaper4k>=0.9.3.1",
+    "openai>=1.61.0",
+    "phidata>=2.7.7",
+    "yfinance>=0.2.51",
+]
